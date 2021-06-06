@@ -2,7 +2,7 @@
 
 My name is Leftyx.
 
-This is my Stackoverflow ![profile](https://stackoverflow.com/users/219406/leftyx)
+This is my Stackoverflow [profile](https://stackoverflow.com/users/219406/leftyx)
 
 
 <!--
