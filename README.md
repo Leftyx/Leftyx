@@ -1,6 +1,9 @@
-### Hey folks! 👋
+### Hello everyone! 👋
 
 My name is Leftyx.
+
+This is my Stackoverflow [profile](https://stackoverflow.com/users/219406/leftyx)
+
 
 <!--
 **Leftyx/Leftyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
