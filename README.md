@@ -1,8 +1,9 @@
-### Hello everyone! 👋
+### Hello everyone! :punch: thanks for stopping by.
 
-My name is Leftyx.
+This is Leftyx.
 
-This is my Stackoverflow profile 
+I've been working in software developement for quite some time.  
+You can find my profile :point_down: 
 
 <a href="https://stackoverflow.com/users/story/219406"><img src="https://stackoverflow.com/users/flair/219406.png" width="208" height="58" alt="profile for LeftyX at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for LeftyX at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
