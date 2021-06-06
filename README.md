@@ -4,6 +4,7 @@ My name is Leftyx.
 
 This is my Stackoverflow [profile](https://stackoverflow.com/users/219406/leftyx)
 
+<a href="https://stackoverflow.com/users/219406/leftyx"><img src="https://stackoverflow.com/users/flair/219406.png" width="208" height="58" alt="profile for LeftyX at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for LeftyX at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 <!--
 **Leftyx/Leftyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
