@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Leftyx's github stats](https://github-readme-stats.vercel.app/api?username=Leftyx&show_icons=true&theme=default&include_all_commits=true)
+
+![Views](https://komarev.com/ghpvc/?username=Leftyx)
